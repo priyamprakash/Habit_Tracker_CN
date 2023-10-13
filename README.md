@@ -11,7 +11,7 @@ To run this application on your local machine, please follow these steps:
 
 Clone this repository using the following command:
 ```
-$ git clone https://github.com/agentgrey/TodoList.git
+$ git clone https://github.com/priyamprakash/Habit_Track.git
 ```
 Install the required dependencies using the following command:
 ```
@@ -83,13 +83,12 @@ Habit Tracker
 
 ## Screenshots
 ### Home Page
-![image](https://user-images.githubusercontent.com/90390855/235321468-d96ca598-cd5b-45f4-acbe-2f5594eb4ffc.png)
+
 ### Sign-up Page
-![image](https://user-images.githubusercontent.com/90390855/235321481-07590d82-d2ae-435a-aff9-ecc9a84a188a.png)
+
 ### Sign-in Page
-![image](https://user-images.githubusercontent.com/90390855/235321490-3973cbbd-4d22-433b-8dda-72c3d19d5236.png)
+
 ### Weekly View Page
-![image](https://user-images.githubusercontent.com/90390855/235321501-b4b7aa59-249e-43a7-87f6-a212d92d831a.png)
 
 
 ## Contributing
