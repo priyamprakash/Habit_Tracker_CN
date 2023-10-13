@@ -83,12 +83,16 @@ Habit Tracker
 
 ## Screenshots
 ### Home Page
+![Screenshot (422)](https://github.com/priyamprakash/Habit_Tracker_CN/assets/65361533/8a570aee-27b9-4e68-a819-0c169b4bdfc7)
 
 ### Sign-up Page
+![Screenshot (420)](https://github.com/priyamprakash/Habit_Tracker_CN/assets/65361533/0e005fc1-1f6c-434c-ad70-0be7c763bfa8)
 
 ### Sign-in Page
+![Screenshot (421)](https://github.com/priyamprakash/Habit_Tracker_CN/assets/65361533/43a27510-ee40-4dd4-96e6-1b309fc47b17)
 
 ### Weekly View Page
+![Screenshot (424)](https://github.com/priyamprakash/Habit_Tracker_CN/assets/65361533/0c4a4e7f-3604-4b53-8d5f-2d53993bbee2)
 
 
 ## Contributing
